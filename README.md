@@ -13,7 +13,7 @@ Dataset Link: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data
 
 Tool used: Google Colab
 
-**Process **
+**Process**
 
 Step 1: Importing the python libraries, and uploading the CSV file
 
